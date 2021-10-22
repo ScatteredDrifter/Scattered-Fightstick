@@ -45,6 +45,6 @@ Designed it with Fusion 360 Education - will upload the files soon.
 
 ![built_front](/files_images/case-built/built_front.jpg)
 
-![built bottom](/files_images/case-built/built_bottom.kpg)
+![built bottom](/files_images/case-built/built_bottom.jpg)
 
 ![built inside](/files_images/case-built/built_inside.jpg)
