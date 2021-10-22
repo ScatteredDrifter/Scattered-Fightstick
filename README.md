@@ -17,7 +17,7 @@ Designed it with Fusion 360 Education - will upload the files soon.
 
 ## Current state:
 
-- prototype is working correctly, although slight modifications were necessary ( built can be seen on reddit: https://www.reddit.com/r/fightsticks/comments/qbelww/i_built_my_first_fightstick_3dprinted_case_and/ ) 
+- prototype is working correctly, although slight modifications were necessary ( build can be seen on reddit: https://www.reddit.com/r/fightsticks/comments/qbelww/i_built_my_first_fightstick_3dprinted_case_and/ ) 
 - better mounting planned > similar to top-mount for keyboards - for a more rigid and sturdy plate 
 - maybe adding support for LEDs at some point 
 - rev2 ought to be a more compact version of this design
