@@ -1,7 +1,9 @@
 # The Scattered-Fightstick
 ---
 
-A fightstick supporting the Brook Universal Fighting Board, fightstick and hitbox layout
+A fightstick supporting the Brook Universal Fighting Board, a detachable joystick  and hitbox layout
+
+
 Designed it with Fusion 360 Education - will upload the files soon. 
 
 ## Features:
